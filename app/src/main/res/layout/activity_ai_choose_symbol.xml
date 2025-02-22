@@ -86,7 +86,7 @@
             android:id="@+id/ai_pick_side_circle_img"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="3.5"
+            android:layout_weight="3.2"
             android:alpha=".4"
             android:src="@drawable/circle1"></ImageView>
 
