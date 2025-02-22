@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:weightSum="10"
-    android:background="@drawable/background_img"
+    android:background="#1a2b2d"
     tools:context=".AIGetPlayerNameActivity">
 
 
@@ -69,7 +69,7 @@
             android:textAllCaps="false"
             android:fontFamily="@font/poppins_regular"
             android:textStyle="bold"
-            android:textColor="#5C5C5C"
+            android:textColor="#FAF5F5"
 
             android:text="Player Name "></TextView>
 
@@ -88,7 +88,7 @@
             android:backgroundTint="#6E6E6E"
             android:hint="Nick Name"
             android:singleLine="true"
-            android:textColor="#5C5C5C"
+            android:textColor="#C1C0C0"
             android:textColorHint="#6E6E6E"
             android:textSize="18dp"
             android:layout_marginRight="40dp"
@@ -107,7 +107,7 @@
             android:layout_weight="1.5"
             android:layout_gravity="center"
             android:gravity="center"
-            android:background="@drawable/button_1"
+            android:background="#3a6b6d"
             android:fontFamily="@font/poppins_medium"
             android:text="Next"
             android:layout_marginRight="95dp"
