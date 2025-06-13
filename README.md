@@ -43,4 +43,19 @@ Feel free to open an issue or send a pull request. Your contributions are welcom
 This project is open-source and available under the **MIT License**.
 
 ---
+## 🙌 Contribution & Feedback
 
+Found a bug? Got an idea for a smarter AI?  
+Feel free to open an issue or send a pull request. Your contributions are welcome!
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 💡 Fun Fact
+
+> 🕹️ The **first computer game** of Tic Tac Toe was built in **1952** on a computer called EDSAC. We've come a long way!
