@@ -1,6 +1,9 @@
 # ✨ Android Tic Tac Toe 🎮  
 > Classic game, modern experience now with a clever AI and head-to-head mode!
 
+![Views](https://komarev.com/ghpvc/?username=yourusername&label=Project+Views&color=brightgreen)
+
+
 ## 🧠 About the App
 
 This is a **Tic Tac Toe (XOX)** game built for Android, offering:
@@ -23,26 +26,18 @@ Whether you're killing time or settling a score, this app brings the classic gam
 
 ---
 
-## 🧩 How It Works
+## 🛠️ Tech Stack
 
-1. Select mode: **1 Player** or **2 Players**
-2. In 1 Player mode, you play as **X** against the AI (plays **O** by default)
-3. Take turns tapping tiles — first to align three symbols wins
-4. Game announces winner or a draw automatically  
-5. Tap **Restart** to play again!
+Here’s what powers the game:
 
-## 🙌 Contribution & Feedback
-
-Found a bug? Got an idea for a smarter AI?  
-Feel free to open an issue or send a pull request. Your contributions are welcome!
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![Minimax (Optional)](https://img.shields.io/badge/AI%20Logic-Minimax-blue?style=for-the-badge)
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the **MIT License**.
-
----
 ## 🙌 Contribution & Feedback
 
 Found a bug? Got an idea for a smarter AI?  
