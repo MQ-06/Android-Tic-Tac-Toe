@@ -30,3 +30,17 @@ Whether you're killing time or settling a score, this app brings the classic gam
 3. Take turns tapping tiles — first to align three symbols wins
 4. Game announces winner or a draw automatically  
 5. Tap **Restart** to play again!
+
+## 🙌 Contribution & Feedback
+
+Found a bug? Got an idea for a smarter AI?  
+Feel free to open an issue or send a pull request. Your contributions are welcome!
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
