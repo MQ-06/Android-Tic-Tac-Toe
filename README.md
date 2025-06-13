@@ -51,6 +51,14 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-## 💡 Fun Fact
+> 🎉 **Fun Fact Time!**  
 
-> 🕹️ The **first computer game** of Tic Tac Toe was built in **1952** on a computer called EDSAC. We've come a long way!
+> `🧠` **Did you know?** The very *first* computer game of Tic Tac Toe was built in `1952` on a vacuum tube computer named **EDSAC** at the University of Cambridge.  
+>  
+> It was called ***"OXO"*** and displayed its moves on a CRT screen. 🤯  
+>
+> So yes, while you tap away on your Android screen... you're technically playing a piece of gaming history!  
+>
+> 🔵❌🔵❌🔵❌🔵  
+>
+> _Now that's what we call "retro roots in a modern suit."_ 💻🕰️✨
